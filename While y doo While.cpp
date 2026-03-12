@@ -35,7 +35,7 @@ main(){
 		cout<<"Desea ingresar otro valor (s/n)";
 		cin>>respuesta;
 		
-	} while(respuesta=='s'||respuesta=='S');
+	}
 	
 	system("pause");
 		 
